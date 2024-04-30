@@ -1,6 +1,6 @@
 
 export function Footer(){
     return<>
-    <footer>フッターフッターフッター</footer>
+    <footer className="mt-20">フッターフッターフッター</footer>
     </>
 }
